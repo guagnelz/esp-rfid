@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "esp-rfid",
+			"path": "."
+		},
+		{
+			"name": "esp-rfid-stable",
+			"path": "C:\\Users\\User\\Documents\\PlatformIO\\Projects\\esp-rfid-stable"
+		}
+	],
+	"settings": {}
+}
